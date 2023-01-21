@@ -1,0 +1,2 @@
+//este archivo de texto se crea con el archivo que se encuantra en "Fichero_directorios"-->"crear.java"
+Esto es un ejemplo. Espero que salga 
